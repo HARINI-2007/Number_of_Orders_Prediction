@@ -1,0 +1,8 @@
+date,product_category,price,orders
+2024-01-01,Electronics,1200,45
+2024-01-02,Electronics,1150,38
+2024-01-03,Clothing,800,60
+2024-01-04,Clothing,750,72
+2024-01-05,Grocery,300,120
+2024-01-06,Grocery,280,140
+2024-01-07,Electronics,1100,50
